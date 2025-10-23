@@ -1,14 +1,13 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4A00E0,100:8E2DE2&text=Christophe%20Lapointe&fontColor=ffffff&fontAlignY=35)
 
 # 🧠 Christophe Lapointe
-**Software Engineer | Algorithmic Trading | AI Systems | Full-Stack Developer**
+**Software Engineer | Algorithmic Trading | Full-Stack Developer**
 
 ---
 
 ## 👋 About Me
 - 🎓 4th-year Software Engineering student at **Polytechnique Montréal**  
 - 💼 Former intern at **Immutable Capital (TX)** — built an advanced backtesting dashboard and variable library system  
-- 🤖 Focus areas: Reinforcement Learning, Algorithmic Trading, Distributed Systems  
 - 🏊‍♂️ Triathlete & Ironman Ottawa 2025 finisher (9h47) — obsessed with endurance & optimization  
 
 ---
@@ -45,13 +44,6 @@ Search local events by postal code, visualize them on a map, and manage data via
 **Reinforcement learning agent for traffic optimization**  
 Built using **SUMO + DQN** to minimize congestion and maximize throughput in a multi-intersection environment.
 
----
-
-## 📊 GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=Clapointe2002&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clapointe2002&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christophe%20Lapointe-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/christophe-lapointe)

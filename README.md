@@ -33,22 +33,7 @@ REST APIs · Microservices · Distributed Systems · Event-driven workflows
 
 ## 🚀 Featured Projects
 
-### 🔹 UniversalTrader
-🔗 https://github.com/ImmutableCapital/UniversalTrader  
-**Algorithmic trading & backtesting framework**
-
-- Designed and built a **modular backtesting and execution engine** in Python
-- Supports **historical backtests, paper trading, and live trading**
-- Implemented **swarm orders**, configurable execution rules, and analytics dashboards
-- Integrated **Redis** for performance-critical paths and state handling
-- Full **Hyperliquid API** support (orders, TP/SL, balances, execution lifecycle)
-
-**Stack:** Python · Dash · Redis · PostgreSQL · External Exchange APIs
-
----
-
 ### 🔹 Lucilab
-🔗 https://github.com/SenecalJF/lucilab  
 **Local activity discovery platform (client-delivered)**
 
 - Full-stack platform for discovering local activities by postal code
@@ -61,7 +46,6 @@ REST APIs · Microservices · Distributed Systems · Event-driven workflows
 ---
 
 ### 🔹 TrafficLightRL
-🔗 https://github.com/Clapointe2002/TrafficLightRL  
 **Reinforcement learning traffic optimization**
 
 - Built a traffic simulation using **SUMO + Deep Q-Learning**

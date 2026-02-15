@@ -64,7 +64,7 @@ REST APIs · Microservices · Distributed Systems · Event-driven workflows
 ---
 
 ## 📬 Connect
-[![LinkedIn](https://www.linkedin.com/in/christophe-lapointe-642a35235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christophe%20Lapointe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophe-lapointe-642a35235/)
 [![Email](https://img.shields.io/badge/Email-lapointe.j.christophe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapointe.j.christophe@gmail.com)
 
 ---

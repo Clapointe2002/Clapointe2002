@@ -6,28 +6,41 @@
 ---
 
 ## 👋 About Me
-Backend-oriented software engineer with a strong focus on **systems performance, scalable architectures, and trading infrastructure**.  
-Experienced in building **production-grade backtesting and execution platforms**, API integrations, and data-intensive systems.
+Backend-oriented software engineer focused on **systems performance, scalable architectures, and trading infrastructure**.  
+Experienced in building **production-grade backtesting and execution platforms**, API integrations, and data-intensive backend systems.
 
 - 🎓 B.Eng. in Software Engineering — **Polytechnique Montréal**
-- 💼 Former Software Engineer Intern at **Immutable Capital (TX)**
+- 💼 Former Software Engineer Intern — **Immutable Capital (TX)**
 - 📈 Strong interest in fintech, trading systems, and optimization
 - 🏊‍♂️ Ironman Ottawa 2025 finisher (9h47) — endurance mindset, measurable performance
 
 ---
 
 ## ⚙️ Tech Stack
+
 **Languages**  
 Python · TypeScript/JavaScript · C++ · Java  
 
 **Backend & Systems**  
-Django · FastAPI · Node.js · NestJS · Spring Boot  
+FastAPI · Django · Node.js · NestJS · Spring Boot  
 
-**Data & Infra**  
+**Data & Infrastructure**  
 PostgreSQL · Redis · MongoDB · Docker · CI/CD  
 
-**Architecture**  
-REST APIs · Microservices · Distributed Systems · Event-driven workflows  
+**Architecture & Concepts**  
+REST APIs · Microservices · Distributed Systems · Event-driven systems  
+
+---
+
+## 💼 Experience
+
+### 🔹 Immutable Capital — Software Engineer Intern
+**Trading & backtesting infrastructure**
+
+- Built backend services supporting a **trading and backtesting platform**
+- Designed and optimized **data pipelines** for historical market data and simulations
+- Integrated exchange APIs and internal services for strategy evaluation
+- Focused on reliability, performance, and clean system boundaries
 
 ---
 
@@ -39,18 +52,18 @@ REST APIs · Microservices · Distributed Systems · Event-driven workflows
 - Full-stack platform for discovering local activities by postal code
 - Interactive **map visualization (Leaflet)** and admin dashboard
 - Designed **REST APIs**, caching layers, and modular data enrichment pipelines
-- Production-oriented architecture focused on responsiveness and scalability
+- Production-oriented architecture with a focus on responsiveness and scalability
 
 **Stack:** NestJS · Angular · Redis · Leaflet
 
 ---
 
 ### 🔹 TrafficLightRL
-**Reinforcement learning traffic optimization**
+**Reinforcement learning for traffic optimization**
 
 - Built a traffic simulation using **SUMO + Deep Q-Learning**
 - Optimized traffic light policies to reduce congestion and waiting time
-- Focus on reward engineering, benchmarking, and system behavior analysis
+- Emphasis on reward engineering, benchmarking, and system behavior analysis
 
 **Stack:** Python · SUMO · DQN
 

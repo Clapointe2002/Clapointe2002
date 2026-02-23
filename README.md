@@ -1,76 +1,91 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4A00E0,100:8E2DE2&text=Christophe%20Lapointe&fontColor=ffffff&fontAlignY=35)
 
 # 🧠 Christophe Lapointe
-**Backend Software Engineer · Distributed Systems · Algorithmic Trading**
+**Junior Software Engineer · Software Development · Web · Systems**
 
 ---
 
 ## 👋 About Me
-Backend-oriented software engineer focused on **systems performance, scalable architectures, and trading infrastructure**.  
-Experienced in building **production-grade backtesting and execution platforms**, API integrations, and data-intensive backend systems.
+Junior software engineer with hands-on experience contributing to **real-world software projects** in professional environments.  
+Comfortable working across **backend, frontend, and system integrations**, collaborating with teams, and learning new technologies quickly to build **reliable, maintainable applications**.
 
 - 🎓 B.Eng. in Software Engineering — **Polytechnique Montréal**
-- 💼 Former Software Engineer Intern — **Immutable Capital (TX)**
-- 📈 Strong interest in fintech, trading systems, and optimization
-- 🏊‍♂️ Ironman Ottawa 2025 finisher (9h47) — endurance mindset, measurable performance
+- 💼 Former Software Developer Intern — **Immutable Capital**
+- 🧩 Experience across backend services, APIs, frontend frameworks, and data-driven systems
+- 🏊‍♂️ Ironman Ottawa 2025 finisher — discipline, consistency, and long-term execution mindset
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages**  
-Python · TypeScript/JavaScript · C++ · Java  
+Python · TypeScript · JavaScript · Java · C++
 
-**Backend & Systems**  
-FastAPI · Django · Node.js · NestJS · Spring Boot  
+**Frontend**  
+Angular · React
+
+**Backend**  
+Django · FastAPI · Node.js · Express · NestJS · Spring Boot
 
 **Data & Infrastructure**  
-PostgreSQL · Redis · MongoDB · Docker · CI/CD  
+PostgreSQL · Redis · MongoDB · Docker · CI/CD
 
 **Architecture & Concepts**  
-REST APIs · Microservices · Distributed Systems · Event-driven systems  
+REST APIs · Microservices · Distributed Systems · Backend Services
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Immutable Capital — Software Engineer Intern
-**Trading & backtesting infrastructure**
+### 🔹 Immutable Capital — Software Developer Intern
+**Trading & backtesting platform**
 
-- Built backend services supporting a **trading and backtesting platform**
-- Designed and optimized **data pipelines** for historical market data and simulations
-- Integrated exchange APIs and internal services for strategy evaluation
-- Focused on reliability, performance, and clean system boundaries
+- Contributed to backend services supporting a **trading and backtesting platform**
+- Implemented business logic and APIs using **Python and Django**
+- Worked on modular systems including analytics dashboards and configurable components
+- Integrated external APIs and internal services with a focus on reliability and performance
+- Collaborated closely with product and engineering teams
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🔹 Lucilab
-**Local activity discovery platform (client-delivered)**
+**Full-stack web application (client-delivered)**
 
-- Full-stack platform for discovering local activities by postal code
-- Interactive **map visualization (Leaflet)** and admin dashboard
-- Designed **REST APIs**, caching layers, and modular data enrichment pipelines
-- Production-oriented architecture with a focus on responsiveness and scalability
+- Developed and delivered a platform for discovering local activities
+- Interactive **map-based UI (Leaflet)** and administrative dashboard
+- Implemented **REST APIs**, Redis caching, and modular data enrichment pipelines
+- Focused on performance, maintainability, and clean architecture
 
 **Stack:** NestJS · Angular · Redis · Leaflet
 
 ---
 
-### 🔹 TrafficLightRL
-**Reinforcement learning for traffic optimization**
+### 🔹 AI-Receptionist
+**Multi-tenant AI telephony system**
 
-- Built a traffic simulation using **SUMO + Deep Q-Learning**
-- Optimized traffic light policies to reduce congestion and waiting time
-- Emphasis on reward engineering, benchmarking, and system behavior analysis
+- Built a configurable AI phone system supporting multiple clients
+- Implemented call transcription, notifications, and configuration-driven routing logic
+- Designed with scalability and multi-tenant separation in mind
+
+**Stack:** Python · FastAPI
+
+---
+
+### 🔹 TrafficLightRL
+**Reinforcement learning traffic simulation**
+
+- Built a traffic optimization simulation using **SUMO and Deep Q-Learning**
+- Experimented with reward design to reduce congestion and waiting time
+- Emphasis on system behavior analysis and benchmarking
 
 **Stack:** Python · SUMO · DQN
 
 ---
 
 ## 🏆 Highlights
-- 5th age group — **Ironman Ottawa 2025** (37th / 2000)
+- 5th age group — **Ironman Ottawa 2025** (37th / 2000 participants)
 - Academic Excellence Mention — Polytechnique Montréal
 - Philip & Lily Malouf Award — Best First-Year Project
 
@@ -82,4 +97,4 @@ REST APIs · Microservices · Distributed Systems · Event-driven systems
 
 ---
 
-> *Build scalable systems. Solve real problems. Learn fast.*
+> *Curious, adaptable, and focused on building reliable software.*
